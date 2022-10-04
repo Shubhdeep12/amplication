@@ -1,0 +1,92 @@
+[
+  {
+    "role": "leadSeniorPrimaryManagerOfUnit_1",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "nedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaa",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "leadSeniorPrimaryManagerOfUnit_1",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "nedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaa",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "leadSeniorPrimaryManagerOfUnit_1",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "nedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaa",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "leadSeniorPrimaryManagerOfUnit_1",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "nedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaa",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "leadSeniorPrimaryManagerOfUnit_1",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "nedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaaadminedaadadasaa",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
